@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardDeck
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300254, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300256, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300250, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300252, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300258, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300248, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300246, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300244, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300242, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300240, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300238, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300236, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300234, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300232, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300230, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300156, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300154, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300130, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300152, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300132, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300150, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300182, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300134, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300164, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300184, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300136, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300162, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300178, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300138, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300160, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300180, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300208, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300140, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300158, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300174, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300206, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300142, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300176, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300144, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300170, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300146, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300168, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300172, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300148, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300166, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300226, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300192, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300228, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300190, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300196, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300186, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300194, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300218, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300188, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300200, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300220, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300198, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300222, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300204, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300224, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300202, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300210, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300212, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300214, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  - {fileID: 21300216, guid: 7a2e63dde2771d142a6822bb0a92cac5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Card_62
+  - Card_63
+  - Card_60
+  - Card_61
+  - Card_64
+  - Card_59
+  - Card_58
+  - Card_57
+  - Card_56
+  - Card_55
+  - Card_54
+  - Card_53
+  - Card_52
+  - Card_51
+  - Card_50
+  - Card_13
+  - Card_12
+  - Card_0
+  - Card_11
+  - Card_1
+  - Card_10
+  - Card_26
+  - Card_2
+  - Card_17
+  - Card_27
+  - Card_3
+  - Card_16
+  - Card_24
+  - Card_4
+  - Card_15
+  - Card_25
+  - Card_39
+  - Card_5
+  - Card_14
+  - Card_22
+  - Card_38
+  - Card_6
+  - Card_23
+  - Card_7
+  - Card_20
+  - Card_8
+  - Card_19
+  - Card_21
+  - Card_9
+  - Card_18
+  - Card_48
+  - Card_31
+  - Card_49
+  - Card_30
+  - Card_33
+  - Card_28
+  - Card_32
+  - Card_44
+  - Card_29
+  - Card_35
+  - Card_45
+  - Card_34
+  - Card_46
+  - Card_37
+  - Card_47
+  - Card_36
+  - Card_40
+  - Card_41
+  - Card_42
+  - Card_43
+  m_Tag: CardDeck
+  m_IsVariant: 0
